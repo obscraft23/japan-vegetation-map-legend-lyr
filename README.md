@@ -11,14 +11,14 @@ GISの専門家ではありませんが、個人的な目的で収集したも�
 ## lyrファイル一覧
 | lyrファイル名 | QGIS SLYR(注1)での読み込み |  qml | qlr | xml | png |
 |:------ |:------ |:------ |:------ |:------ |:------ |
-|[凡例ver1.1.lyr](lyr/凡例ver1.1.lyr)| :white_check_mark: | | | | |
-|[凡例ver1.5.lyr](lyr/凡例ver1.5.lyr)| :white_check_mark: | | | | |
-|[凡例ver1.6.lyr](lyr/凡例ver1.6.lyr)| :white_check_mark: | | | | |
-|[凡例ver1.7.lyr](lyr/凡例ver1.7.lyr)| :white_check_mark:| | | | |
-|[凡例ver1.7_esri91.lyr](lyr/凡例ver1.7_esri91.lyr)| :white_check_mark:| | | | |
-|[凡例ver2.2.lyr](lyr/凡例ver2.2.lyr)| :white_check_mark:| | | | |
-|[凡例ver2.4.lyr](lyr/凡例ver2.4.lyr)| :white_check_mark:| | | | |
-|[凡例ver2.5.lyr](lyr/凡例ver2.5.lyr)| :white_check_mark:| | | | |
+|[凡例ver1.1.lyr](lyr/凡例ver1.1.lyr)| :white_check_mark: | | | | [png.legends.v1_1](png/png.legends.v1_1) |
+|[凡例ver1.5.lyr](lyr/凡例ver1.5.lyr)| :white_check_mark: | | | | [png.legends.v1_5](png/png.legends.v1_5)|
+|[凡例ver1.6.lyr](lyr/凡例ver1.6.lyr)| :white_check_mark: | | | | [png.legends.v1_6](png/png.legends.v1_6)|
+|[凡例ver1.7.lyr](lyr/凡例ver1.7.lyr)| :white_check_mark:| | | | [png.legends.v1_7](png/png.legends.v1_7)|
+|[凡例ver1.7_esri91.lyr](lyr/凡例ver1.7_esri91.lyr)| :white_check_mark:| | | | [png.legends.v1_7.esri91](png/png.legends.v1_7.esri91)|
+|[凡例ver2.2.lyr](lyr/凡例ver2.2.lyr)| :white_check_mark:| | | | [png.legends.v2_2](png/png.legends.v2_2)|
+|[凡例ver2.4.lyr](lyr/凡例ver2.4.lyr)| :white_check_mark:| | | | [png.legends.v2_4](png/png.legends.v2_4)|
+|[凡例ver2.5.lyr](lyr/凡例ver2.5.lyr)| :white_check_mark:| | | | [png.legends.v2_5](png/png.legends.v2_5)|
 |[凡例ver2.6.lyr](lyr/凡例ver2.6.lyr)| | | | | |
 |[凡例ver2.6_esri91.lyr](lyr/凡例ver2.6_esri91.lyr)| | | | | |
 |[凡例ver2.9_esri91.lyr](lyr/凡例ver2.9_esri91.lyr)| | | | | |
@@ -40,3 +40,7 @@ GISの専門家ではありませんが、個人的な目的で収集したも�
 + QGIS https://qgis.org/ja/site/
 + SLYR https://github.com/north-road/slyr
 + https://qiita.com/Yfuruchin/items/aa9e1f4d9739446dcafe
+
+## 連絡先
+
+[![Gmail adress](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](obscraft23@gmail.com)
