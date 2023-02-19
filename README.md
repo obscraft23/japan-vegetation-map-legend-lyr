@@ -2,6 +2,8 @@
 **上記に基いて**[obscraft23](https://github.com/obscraft23)**が編集加工を行ったデータを**[生物多様性センターウェブサイト利用規約](https://www.biodic.go.jp/copyright/terms_of_service.html)**に基づき出典明記の上公開するものである。** <br>
 **本リポジトリに環境省生物多様性センターは一切関与していません。** <br>
 
+![GitHub](https://img.shields.io/github/license/obscraft23/japan-vegetation-map-legend-lyr?style=for-the-badge)
+
 ## TL;DL
 
 [環境省生物多様性センター](https://www.biodic.go.jp/)作成の1/2.5万植生図で使用されている.lyrファイルの一覧とその変換物一式です。<br>
