@@ -1,4 +1,4 @@
-**出典：環境省生物多様性センター植生調査(1/2.5万)全県データ** (http://gis.biodic.go.jp/webgis/sc-025.html?kind=vg67)<br>
+**出典：[環境省生物多様性センター植生調査(1/2.5万)全県データ](http://gis.biodic.go.jp/webgis/sc-025.html?kind=vg67)** <br>
 **上記に基いて**[obscraft23](https://github.com/obscraft23)**が編集加工を行ったデータを**[生物多様性センターウェブサイト利用規約](https://www.biodic.go.jp/copyright/terms_of_service.html)**に基づき出典明記の上公開するものである。** <br>
 **本リポジトリに環境省生物多様性センターは一切関与していません。** <br>
 
