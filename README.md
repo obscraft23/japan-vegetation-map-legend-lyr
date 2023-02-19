@@ -12,13 +12,13 @@ GISの専門家ではありませんが、個人的な目的で収集したも�
 | lyrファイル名 | QGIS SLYR(注1)での読み込み |  qml | qlr | xml | png |
 |:------ |:------ |:------ |:------ |:------ |:------ |
 |[凡例ver1.1.lyr](lyr/凡例ver1.1.lyr)| :white_check_mark: | [legends.v1_1.qml](xml/legends.v1_1.qml)|[legends.v1_1.qlr](xml/legends.v1_1.qlr) | [legends.v1_1.xml](xml/legends.v1_1.xml)| [png.legends.v1_1](png/png.legends.v1_1) |
-|[凡例ver1.5.lyr](lyr/凡例ver1.5.lyr)| :white_check_mark: | |legends.v1_5.qlr](xml/legends.v1_5.qlr) | [legends.v1_5.xml](xml/legends.v1_5.xml)| [png.legends.v1_5](png/png.legends.v1_5)|
-|[凡例ver1.6.lyr](lyr/凡例ver1.6.lyr)| :white_check_mark: | | legends.v1_6.qlr](xml/legends.v1_6.qlr)| [legends.v1_6.xml](xml/legends.v1_6.xml)| [png.legends.v1_6](png/png.legends.v1_6)|
-|[凡例ver1.7.lyr](lyr/凡例ver1.7.lyr)| :white_check_mark:| | legends.v1_7.qlr](xml/legends.v1_7.qlr)| [legends.v1_7.xml](xml/legends.v1_7.xml)| [png.legends.v1_7](png/png.legends.v1_7)|
-|[凡例ver1.7_esri91.lyr](lyr/凡例ver1.7_esri91.lyr)| :white_check_mark:| | legends.v1_7.esri91.qlr](xml/legends.v1_1.qlr)| [legends.v1_7.esri91.xml](xml/legends.v1_7.esri91.xml)| [png.legends.v1_7.esri91](png/png.legends.v1_7.esri91)|
-|[凡例ver2.2.lyr](lyr/凡例ver2.2.lyr)| :white_check_mark:| |legends.v2_2.qlr](xml/legends.v2_2.qlr) | [legends.v2_2.xml](xml/legends.v2_2.xml)| [png.legends.v2_2](png/png.legends.v2_2)|
-|[凡例ver2.4.lyr](lyr/凡例ver2.4.lyr)| :white_check_mark:| | legends.v2_4.qlr](xml/legends.v2_4.qlr)| [legends.v2_4.xml](xml/legends.v2_4.xml)| [png.legends.v2_4](png/png.legends.v2_4)|
-|[凡例ver2.5.lyr](lyr/凡例ver2.5.lyr)| :white_check_mark:| | legends.v2_5.qlr](xml/legends.v2_5.qlr)| [legends.v2_5.xml](xml/legends.v2_5.xml)| [png.legends.v2_5](png/png.legends.v2_5)|
+|[凡例ver1.5.lyr](lyr/凡例ver1.5.lyr)| :white_check_mark: | |[legends.v1_5.qlr](xml/legends.v1_5.qlr) | [legends.v1_5.xml](xml/legends.v1_5.xml)| [png.legends.v1_5](png/png.legends.v1_5)|
+|[凡例ver1.6.lyr](lyr/凡例ver1.6.lyr)| :white_check_mark: | | [legends.v1_6.qlr](xml/legends.v1_6.qlr)| [legends.v1_6.xml](xml/legends.v1_6.xml)| [png.legends.v1_6](png/png.legends.v1_6)|
+|[凡例ver1.7.lyr](lyr/凡例ver1.7.lyr)| :white_check_mark:| | [egends.v1_7.qlr](xml/legends.v1_7.qlr)| [legends.v1_7.xml](xml/legends.v1_7.xml)| [png.legends.v1_7](png/png.legends.v1_7)|
+|[凡例ver1.7_esri91.lyr](lyr/凡例ver1.7_esri91.lyr)| :white_check_mark:| | [legends.v1_7.esri91.qlr](xml/legends.v1_1.qlr)| [legends.v1_7.esri91.xml](xml/legends.v1_7.esri91.xml)| [png.legends.v1_7.esri91](png/png.legends.v1_7.esri91)|
+|[凡例ver2.2.lyr](lyr/凡例ver2.2.lyr)| :white_check_mark:| |[legends.v2_2.qlr](xml/legends.v2_2.qlr) | [legends.v2_2.xml](xml/legends.v2_2.xml)| [png.legends.v2_2](png/png.legends.v2_2)|
+|[凡例ver2.4.lyr](lyr/凡例ver2.4.lyr)| :white_check_mark:| | [legends.v2_4.qlr](xml/legends.v2_4.qlr)| [legends.v2_4.xml](xml/legends.v2_4.xml)| [png.legends.v2_4](png/png.legends.v2_4)|
+|[凡例ver2.5.lyr](lyr/凡例ver2.5.lyr)| :white_check_mark:| | [legends.v2_5.qlr](xml/legends.v2_5.qlr)| [legends.v2_5.xml](xml/legends.v2_5.xml)| [png.legends.v2_5](png/png.legends.v2_5)|
 |[凡例ver2.6.lyr](lyr/凡例ver2.6.lyr)| | | | | |
 |[凡例ver2.6_esri91.lyr](lyr/凡例ver2.6_esri91.lyr)| | | | | |
 |[凡例ver2.9_esri91.lyr](lyr/凡例ver2.9_esri91.lyr)| | | | | |
