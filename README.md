@@ -37,7 +37,7 @@ GISの専門家ではありませんが、個人的な目的で収集したも�
 + 凡例ver2.6.lyr以降の新しいlyrファイルはプラグインのエラーが発生して読み込めなかった。
 
 ## ライセンス
-[生物多様性センターウェブサイト利用規約](https://www.biodic.go.jp/copyright/terms_of_service.html)と互換性のあるCC-BY-4を適用しています。
+[生物多様性センターウェブサイト利用規約](https://www.biodic.go.jp/copyright/terms_of_service.html)と互換性のある[CC-BY-4](https://creativecommons.org/licenses/by/4.0/legalcode.ja)を適用しています。
 
 ## 参考
 + QGIS https://qgis.org/ja/site/
