@@ -11,7 +11,7 @@ GISの専門家ではありませんが、個人的な目的で収集したも�
 ## lyrファイル一覧
 | lyrファイル名 | QGIS SLYR(注1)での読み込み |  qml | qlr | xml | png |
 |:------ |:------ |:------ |:------ |:------ |:------ |
-|[凡例ver1.1.lyr](lyr/凡例ver1.1.lyr)| :white_check_mark: | [凡例ver1.1.qml](qlr/凡例ver1.1.qml)|[凡例ver1.1.qlr](qlr/凡例ver1.1.qlr) | [legends.v1_1.xml](xml/legends.v1_1.xml)| [png.legends.v1_1](png/png.legends.v1_1) |
+|[凡例ver1.1.lyr](lyr/凡例ver1.1.lyr)| :white_check_mark: | [凡例ver1.1.qml](qml/凡例ver1.1.qml)|[凡例ver1.1.qlr](qlr/凡例ver1.1.qlr) | [legends.v1_1.xml](xml/legends.v1_1.xml)| [png.legends.v1_1](png/png.legends.v1_1) |
 |[凡例ver1.5.lyr](lyr/凡例ver1.5.lyr)| :white_check_mark: | |[凡例ver1.5.qlr](qlr/凡例ver1.5.qlr) | [legends.v1_5.xml](xml/legends.v1_5.xml)| [png.legends.v1_5](png/png.legends.v1_5)|
 |[凡例ver1.6.lyr](lyr/凡例ver1.6.lyr)| :white_check_mark: | | [凡例ver1.6.qlr](qlr/凡例ver1.6.qlr)| [legends.v1_6.xml](xml/legends.v1_6.xml)| [png.legends.v1_6](png/png.legends.v1_6)|
 |[凡例ver1.7.lyr](lyr/凡例ver1.7.lyr)| :white_check_mark:| | [凡例ver1.7.qlr](qlr/凡例ver1.7.qlr)| [legends.v1_7.xml](xml/legends.v1_7.xml)| [png.legends.v1_7](png/png.legends.v1_7)|
