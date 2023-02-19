@@ -29,7 +29,7 @@ GISの専門家ではありませんが、個人的な目的で収集したも�
 ## 作成方法
 
 + 環境省生物多様性センター植生調査(1/2.5万)全県データ(vg67.zip)をpythonで読み込みlyrの一覧を取得・抽出<br>
-サンプルコード（注: 全県データを読む場合、[Google Colaboratory](https://colab.research.google.com/?hl=ja)で30分ほどかかります）
+[サンプルコード](abstract_lyr.py)（注: 全県データを読む場合、[Google Colaboratory](https://colab.research.google.com/?hl=ja)で30分ほどかかります）
 
 + lyrファイルをQGIS及びSLYR プラグインで読み込み、変換
 
