@@ -11,18 +11,18 @@ GISの専門家ではありませんが、個人的な目的で収集したも�
 ## lyrファイル一覧
 | lyrファイル名 | QGIS SLYR(注1)での読み込み |  qml | qlr | xml | png |
 |:------ |:------ |:------ |:------ |:------ |:------ |
-|凡例ver1.1.lyr| :white_check_mark: | | | | |
-|凡例ver1.5.lyr| :white_check_mark: | | | | |
-|凡例ver1.6.lyr| :white_check_mark: | | | | |
-|凡例ver1.7.lyr| :white_check_mark:| | | | |
-|凡例ver1.7_esri91.lyr| :white_check_mark:| | | | |
-|凡例ver2.2.lyr| :white_check_mark:| | | | |
-|凡例ver2.4.lyr| :white_check_mark:| | | | |
-|凡例ver2.5.lyr| :white_check_mark:| | | | |
-|凡例ver2.6.lyr| | | | | |
-|凡例ver2.6_esri91.lyr| | | | | |
-|凡例ver2.9_esri91.lyr| | | | | |
-|凡例ver3.0_esri91.lyr| | | | | |
+|[凡例ver1.1.lyr](lyr/凡例ver1.1.lyr)| :white_check_mark: | | | | |
+|[凡例ver1.5.lyr](lyr/凡例ver1.5.lyr)| :white_check_mark: | | | | |
+|[凡例ver1.6.lyr](lyr/凡例ver1.6.lyr)| :white_check_mark: | | | | |
+|[凡例ver1.7.lyr](lyr/凡例ver1.7.lyr)| :white_check_mark:| | | | |
+|[凡例ver1.7_esri91.lyr](lyr/凡例ver1.7_esri91.lyr)| :white_check_mark:| | | | |
+|[凡例ver2.2.lyr](lyr/凡例ver2.2.lyr)| :white_check_mark:| | | | |
+|[凡例ver2.4.lyr](lyr/凡例ver2.4.lyr)| :white_check_mark:| | | | |
+|[凡例ver2.5.lyr](lyr/凡例ver2.5.lyr)| :white_check_mark:| | | | |
+|[凡例ver2.6.lyr](lyr/凡例ver2.6.lyr)| | | | | |
+|[凡例ver2.6_esri91.lyr](lyr/凡例ver2.6_esri91.lyr)| | | | | |
+|[凡例ver2.9_esri91.lyr](lyr/凡例ver2.9_esri91.lyr)| | | | | |
+|[凡例ver3.0_esri91.lyr](lyr/凡例ver3.0_esri91.lyr)| | | | | |
 
 注1: QGIS v3.28, SLYR v4.0.6 (Community Edition)
 
