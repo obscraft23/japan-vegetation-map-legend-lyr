@@ -2,7 +2,7 @@
 **上記に基いて**[obscraft23](https://github.com/obscraft23)**が編集加工を行ったデータを**[生物多様性センターウェブサイト利用規約](https://www.biodic.go.jp/copyright/terms_of_service.html)**に基づき出典明記の上公開するものである。** <br>
 **本リポジトリに環境省生物多様性センターは一切関与していません。** <br>
 
-![GitHub](https://img.shields.io/github/license/obscraft23/japan-vegetation-map-legend-lyr?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/obscraft23/japan-vegetation-map-legend-lyr?style=flat-square)
 
 ## TL;DL
 
@@ -48,4 +48,4 @@ GISの専門家ではありませんが、個人的な目的で収集したも�
 
 ## 連絡先
 
-[![Gmail adress](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](obscraft23@gmail.com)
+[![Gmail adress](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](obscraft23@gmail.com)
